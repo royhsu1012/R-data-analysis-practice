@@ -1,3 +1,3 @@
-# Random-Stuff
+# Stuff Before I apply
 
-Record some stuff I practice before I apply bootcamp.
+Record some code & project I practice before I apply bootcamp.
