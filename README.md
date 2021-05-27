@@ -2,7 +2,7 @@
 
 ## Description
 Those files are some coding projects I practice before I apply the bootcamp.
----
+
 ## Project
 ### R_test
   * I used to use R for data analysis
@@ -21,7 +21,7 @@ Those files are some coding projects I practice before I apply the bootcamp.
   * CRUD practice
   * use express, ejs, nodes and mongodb to create a basic to-do-list task management system
 
-### what I gonna do 
+### What project I gonna do in the future
   * I want to crawl leetcode data and store in my own data base
   * then create an api to get the data for db
   * make a complete signup website
