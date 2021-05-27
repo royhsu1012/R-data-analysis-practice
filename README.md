@@ -7,10 +7,10 @@ Those files are some coding projects I practice before I apply the bootcamp.
 ### R_test
   * I used to use R for data analysis
   * Those files aim to create a new index by raw data
-  * Sort stocks data to creste portfolio and do some quantitative analysis
+  * Sort stocks data to create portfolio and do some quantitative analysis
 
 ### Website design
-  * Leaarn css html javascript
+  * Learn css html javascript
   * create a portfolio website
 
 ### Signup
