@@ -1,7 +1,4 @@
-# Support material to apply appworks school data engineer track 
-
-## Description
-Those files are some coding projects I practice before I apply the bootcamp.
+# Support material
 
 ## Project
 ### R_test
